@@ -71,5 +71,7 @@ int main() {
 	
 	cout << answer;
 	
+	delete[] materials;
+	
 	return 0;
 }
